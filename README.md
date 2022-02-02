@@ -1,2 +1,2 @@
 # Projects
-Showcase of all projects i worked on or have produced myself
+Showcase of all projects I worked on or have produced myself
