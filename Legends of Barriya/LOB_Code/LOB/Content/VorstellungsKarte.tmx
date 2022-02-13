@@ -1,0 +1,2032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="90" height="50" tilewidth="77" tileheight="77" infinite="0" nextlayerid="16" nextobjectid="633">
+ <tileset firstgid="1" source="TileSet.tsx"/>
+ <layer id="1" name="Background" width="90" height="50">
+  <data encoding="csv">
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+</data>
+ </layer>
+ <group id="13" name="Enemies">
+  <objectgroup id="14" name="Houses2">
+   <object id="499" gid="3" x="5313" y="1925" width="77" height="77">
+    <properties>
+     <property name="isPlayer" value="false"/>
+     <property name="type" value="Main Building"/>
+    </properties>
+   </object>
+   <object id="502" gid="3" x="1617" y="1925" width="77" height="77">
+    <properties>
+     <property name="isPlayer" value="true"/>
+     <property name="type" value="Main Building"/>
+    </properties>
+   </object>
+   <object id="534" gid="10" x="4928" y="1771" width="77" height="77">
+    <properties>
+     <property name="type" value="Mine"/>
+    </properties>
+   </object>
+   <object id="536" gid="10" x="5005" y="2387" width="77" height="77">
+    <properties>
+     <property name="type" value="Mine"/>
+    </properties>
+   </object>
+   <object id="537" gid="10" x="5621" y="2310" width="77" height="77">
+    <properties>
+     <property name="type" value="Mine"/>
+    </properties>
+   </object>
+   <object id="538" gid="10" x="6006" y="1771" width="77" height="77">
+    <properties>
+     <property name="type" value="Mine"/>
+    </properties>
+   </object>
+   <object id="539" gid="10" x="5775" y="1232" width="77" height="77">
+    <properties>
+     <property name="type" value="Mine"/>
+    </properties>
+   </object>
+   <object id="540" gid="10" x="5159" y="1001" width="77" height="77">
+    <properties>
+     <property name="type" value="Mine"/>
+    </properties>
+   </object>
+   <object id="595" gid="5" x="4235" y="693" width="77" height="77">
+    <properties>
+     <property name="type" value="Mana Source"/>
+    </properties>
+   </object>
+   <object id="596" gid="5" x="3850" y="2464" width="77" height="77">
+    <properties>
+     <property name="type" value="Mana Source"/>
+    </properties>
+   </object>
+   <object id="598" gid="5" x="6237" y="3080" width="77" height="77">
+    <properties>
+     <property name="type" value="Mana Source"/>
+    </properties>
+   </object>
+   <object id="600" gid="5" x="5621" y="1078" width="77" height="77">
+    <properties>
+     <property name="type" value="Mana Source"/>
+    </properties>
+   </object>
+   <object id="601" gid="5" x="6314" y="385" width="77" height="77">
+    <properties>
+     <property name="type" value="Mana Source"/>
+    </properties>
+   </object>
+   <object id="602" gid="11" x="4081" y="1925" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="603" gid="11" x="3927" y="3003" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="606" gid="11" x="4081" y="3542" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="607" gid="11" x="5313" y="3696" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="608" gid="11" x="5390" y="3080" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="609" gid="11" x="4389" y="2772" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="610" gid="11" x="5621" y="2618" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="611" gid="11" x="6545" y="3157" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="612" gid="11" x="6468" y="1925" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="613" gid="11" x="5467" y="2079" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="614" gid="11" x="4389" y="1694" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="615" gid="11" x="3927" y="770" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="616" gid="11" x="5236" y="462" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="617" gid="11" x="4774" y="1155" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="618" gid="11" x="5852" y="1463" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="619" gid="11" x="6468" y="847" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="620" gid="11" x="5852" y="462" width="77" height="77">
+    <properties>
+     <property name="type" value="Iron Source"/>
+    </properties>
+   </object>
+   <object id="621" gid="6" x="4312" y="1078" width="77" height="77">
+    <properties>
+     <property name="type" value="Gold Vein"/>
+    </properties>
+   </object>
+   <object id="622" gid="6" x="4004" y="2156" width="77" height="77">
+    <properties>
+     <property name="type" value="Gold Vein"/>
+    </properties>
+   </object>
+   <object id="623" gid="6" x="4697" y="3311" width="77" height="77">
+    <properties>
+     <property name="type" value="Gold Vein"/>
+    </properties>
+   </object>
+   <object id="624" gid="6" x="6006" y="2772" width="77" height="77">
+    <properties>
+     <property name="type" value="Gold Vein"/>
+    </properties>
+   </object>
+   <object id="625" gid="6" x="6006" y="2002" width="77" height="77">
+    <properties>
+     <property name="type" value="Gold Vein"/>
+    </properties>
+   </object>
+   <object id="626" gid="6" x="4697" y="1617" width="77" height="77">
+    <properties>
+     <property name="type" value="Gold Vein"/>
+    </properties>
+   </object>
+   <object id="627" gid="6" x="5005" y="462" width="77" height="77">
+    <properties>
+     <property name="type" value="Gold Vein"/>
+    </properties>
+   </object>
+   <object id="628" gid="6" x="6391" y="693" width="77" height="77">
+    <properties>
+     <property name="type" value="Gold Vein"/>
+    </properties>
+   </object>
+   <object id="629" gid="6" x="5236" y="2541" width="77" height="77">
+    <properties>
+     <property name="type" value="Gold Vein"/>
+    </properties>
+   </object>
+   <object id="630" gid="6" x="6006" y="3696" width="77" height="77">
+    <properties>
+     <property name="type" value="Gold Vein"/>
+    </properties>
+   </object>
+  </objectgroup>
+ </group>
+ <group id="6" name="GameObjects">
+  <objectgroup id="5" name="Barrier">
+   <properties>
+    <property name="type" value="Gold Vein"/>
+   </properties>
+   <object id="93" gid="7" x="3311" y="77" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="94" gid="7" x="3311" y="154" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="95" gid="7" x="3311" y="231" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="96" gid="7" x="3311" y="308" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="97" gid="7" x="3311" y="385" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="98" gid="7" x="3311" y="462" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="99" gid="7" x="3311" y="539" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="100" gid="7" x="3311" y="616" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="101" gid="7" x="3311" y="693" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="102" gid="7" x="3311" y="770" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="103" gid="7" x="3311" y="847" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="104" gid="7" x="3311" y="924" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="105" gid="7" x="3311" y="1001" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="106" gid="7" x="3311" y="1078" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="107" gid="7" x="3311" y="1155" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="108" gid="7" x="3311" y="1232" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="109" gid="7" x="3311" y="1309" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="110" gid="7" x="3311" y="1386" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="111" gid="7" x="3311" y="1463" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="112" gid="7" x="3311" y="1540" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="113" gid="7" x="3311" y="1617" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="114" gid="7" x="3311" y="1694" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="115" gid="7" x="3311" y="1771" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="116" gid="7" x="3311" y="1848" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="117" gid="7" x="3311" y="1925" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="118" gid="7" x="3311" y="2002" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="119" gid="7" x="3311" y="2156" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="120" gid="7" x="3311" y="2233" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="121" gid="7" x="3311" y="2079" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="122" gid="7" x="3311" y="2310" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="123" gid="7" x="3311" y="2387" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="124" gid="7" x="3311" y="2464" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="125" gid="7" x="3311" y="2618" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="126" gid="7" x="3311" y="2541" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="127" gid="7" x="3311" y="2695" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="128" gid="7" x="3311" y="2849" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="129" gid="7" x="3311" y="2772" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="130" gid="7" x="3311" y="2926" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="131" gid="7" x="3311" y="3003" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="132" gid="7" x="3311" y="3157" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="135" gid="7" x="3311" y="3234" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="136" gid="7" x="3311" y="3080" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="137" gid="7" x="3311" y="3388" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="138" gid="7" x="3311" y="3311" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="139" gid="7" x="3311" y="3465" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="140" gid="7" x="3311" y="3619" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="141" gid="7" x="3311" y="3542" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="142" gid="7" x="3311" y="3696" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="143" gid="7" x="3311" y="3773" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="144" gid="7" x="3311" y="3850" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierLeft"/>
+    </properties>
+   </object>
+   <object id="168" gid="9" x="3388" y="77" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="169" gid="9" x="3465" y="77" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="170" gid="9" x="3388" y="154" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="171" gid="9" x="3465" y="154" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="172" gid="9" x="3388" y="231" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="173" gid="9" x="3465" y="231" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="174" gid="9" x="3388" y="308" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="175" gid="9" x="3465" y="308" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="176" gid="9" x="3388" y="385" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="177" gid="9" x="3465" y="385" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="178" gid="9" x="3388" y="462" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="179" gid="9" x="3465" y="462" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="180" gid="9" x="3388" y="539" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="181" gid="9" x="3465" y="539" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="182" gid="9" x="3388" y="616" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="183" gid="9" x="3465" y="616" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="184" gid="9" x="3388" y="693" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="185" gid="9" x="3465" y="693" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="186" gid="9" x="3388" y="770" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="187" gid="9" x="3465" y="770" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="188" gid="9" x="3388" y="847" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="190" gid="9" x="3465" y="847" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="191" gid="9" x="3388" y="924" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="192" gid="9" x="3465" y="924" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="193" gid="9" x="3388" y="1001" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="194" gid="9" x="3465" y="1001" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="195" gid="9" x="3388" y="1078" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="196" gid="9" x="3465" y="1078" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="197" gid="9" x="3388" y="1155" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="198" gid="9" x="3465" y="1155" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="199" gid="9" x="3388" y="1232" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="200" gid="9" x="3465" y="1232" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="201" gid="9" x="3388" y="1309" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="203" gid="9" x="3465" y="1309" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="204" gid="9" x="3388" y="1386" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="205" gid="9" x="3465" y="1386" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="206" gid="9" x="3388" y="1463" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="207" gid="9" x="3465" y="1463" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="208" gid="9" x="3388" y="1540" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="209" gid="9" x="3465" y="1540" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="210" gid="9" x="3388" y="1617" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="211" gid="9" x="3465" y="1617" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="212" gid="9" x="3388" y="1694" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="213" gid="9" x="3465" y="1694" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="214" gid="9" x="3388" y="1771" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="215" gid="9" x="3465" y="1771" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="216" gid="9" x="3388" y="1848" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="217" gid="9" x="3465" y="1848" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="218" gid="9" x="3388" y="1925" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="219" gid="9" x="3465" y="1925" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="220" gid="9" x="3388" y="2002" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="221" gid="9" x="3465" y="2002" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="222" gid="9" x="3388" y="2079" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="223" gid="9" x="3465" y="2079" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="224" gid="9" x="3388" y="2156" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="225" gid="9" x="3465" y="2156" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="226" gid="9" x="3388" y="2233" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="227" gid="9" x="3465" y="2233" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="228" gid="9" x="3388" y="2310" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="229" gid="9" x="3465" y="2310" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="230" gid="9" x="3388" y="2387" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="232" gid="9" x="3465" y="2387" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="233" gid="9" x="3388" y="2464" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="234" gid="9" x="3465" y="2464" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="235" gid="9" x="3388" y="2541" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="236" gid="9" x="3465" y="2541" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="237" gid="9" x="3388" y="2618" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="238" gid="9" x="3465" y="2618" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="239" gid="9" x="3388" y="2695" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="240" gid="9" x="3465" y="2695" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="241" gid="9" x="3388" y="2772" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="242" gid="9" x="3465" y="2772" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="243" gid="9" x="3388" y="2849" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="244" gid="9" x="3465" y="2849" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="245" gid="9" x="3388" y="2926" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="246" gid="9" x="3465" y="2926" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="247" gid="9" x="3388" y="3003" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="248" gid="9" x="3465" y="3003" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="250" gid="9" x="3388" y="3080" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="251" gid="9" x="3465" y="3080" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="252" gid="9" x="3388" y="3157" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="253" gid="9" x="3465" y="3157" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="254" gid="9" x="3388" y="3234" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="255" gid="9" x="3465" y="3234" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="256" gid="9" x="3388" y="3311" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="257" gid="9" x="3465" y="3311" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="258" gid="9" x="3388" y="3388" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="259" gid="9" x="3465" y="3388" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="260" gid="9" x="3388" y="3465" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="261" gid="9" x="3465" y="3465" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="262" gid="9" x="3388" y="3542" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="263" gid="9" x="3465" y="3542" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="266" gid="9" x="3388" y="3619" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="267" gid="9" x="3465" y="3619" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="268" gid="9" x="3388" y="3696" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="269" gid="9" x="3465" y="3696" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="270" gid="9" x="3388" y="3773" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="271" gid="9" x="3465" y="3773" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="272" gid="9" x="3388" y="3850" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="274" gid="9" x="3465" y="3850" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierMiddle"/>
+    </properties>
+   </object>
+   <object id="275" gid="8" x="3542" y="77" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="276" gid="8" x="3542" y="154" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="277" gid="8" x="3542" y="231" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="278" gid="8" x="3542" y="308" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="279" gid="8" x="3542" y="385" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="282" gid="8" x="3542" y="462" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="285" gid="8" x="3542" y="539" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="286" gid="8" x="3542" y="616" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="287" gid="8" x="3542" y="693" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="288" gid="8" x="3542" y="770" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="289" gid="8" x="3542" y="847" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="290" gid="8" x="3542" y="924" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="291" gid="8" x="3542" y="1001" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="292" gid="8" x="3542" y="1078" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="293" gid="8" x="3542" y="1155" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="294" gid="8" x="3542" y="1232" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="295" gid="8" x="3542" y="1309" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="296" gid="8" x="3542" y="1386" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="297" gid="8" x="3542" y="1463" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="298" gid="8" x="3542" y="1540" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="299" gid="8" x="3542" y="1617" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="300" gid="8" x="3542" y="1694" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="301" gid="8" x="3542" y="1771" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="302" gid="8" x="3542" y="1848" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="303" gid="8" x="3542" y="1925" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="304" gid="8" x="3542" y="2002" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="306" gid="8" x="3542" y="2079" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="307" gid="8" x="3542" y="2156" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="308" gid="8" x="3542" y="2233" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="309" gid="8" x="3542" y="2310" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="310" gid="8" x="3542" y="2387" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="311" gid="8" x="3542" y="2464" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="312" gid="8" x="3542" y="2541" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="313" gid="8" x="3542" y="2618" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="314" gid="8" x="3542" y="2695" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="315" gid="8" x="3542" y="2772" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="316" gid="8" x="3542" y="2849" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="317" gid="8" x="3542" y="2926" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="318" gid="8" x="3542" y="3003" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="319" gid="8" x="3542" y="3080" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="320" gid="8" x="3542" y="3157" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="321" gid="8" x="3542" y="3234" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="322" gid="8" x="3542" y="3311" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="323" gid="8" x="3542" y="3388" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="324" gid="8" x="3542" y="3465" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="325" gid="8" x="3542" y="3542" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="326" gid="8" x="3542" y="3619" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="328" gid="8" x="3542" y="3696" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="329" gid="8" x="3542" y="3773" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+   <object id="330" gid="8" x="3542" y="3850" width="77" height="77">
+    <properties>
+     <property name="type" value="BarrierRight"/>
+    </properties>
+   </object>
+  </objectgroup>
+  <group id="8" name="Player">
+   <objectgroup id="9" name="Houses">
+    <object id="342" gid="3" x="1463" y="2002" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="true"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="343" gid="3" x="1463" y="1925" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="true"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="344" gid="3" x="1463" y="1848" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="true"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="345" gid="3" x="1540" y="2079" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="true"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="346" gid="3" x="1540" y="1771" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="true"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="541" gid="3" x="5236" y="1771" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="false"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="542" gid="3" x="5313" y="1771" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="false"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="543" gid="3" x="5390" y="1771" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="false"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="551" gid="3" x="5313" y="2233" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="false"/>
+      <property name="type" value="Military Camp"/>
+     </properties>
+    </object>
+    <object id="544" gid="3" x="5467" y="1771" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="false"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="546" gid="3" x="5159" y="1617" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="false"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="547" gid="3" x="5236" y="1617" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="false"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="548" gid="3" x="5313" y="1617" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="false"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="549" gid="3" x="5390" y="1617" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="false"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="550" gid="3" x="5467" y="1617" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="false"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="545" gid="3" x="5159" y="1771" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="false"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="347" gid="3" x="1463" y="1771" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="true"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="348" gid="3" x="1463" y="2079" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="true"/>
+      <property name="type" value="House"/>
+     </properties>
+    </object>
+    <object id="425" gid="10" x="1309" y="1386" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+    <object id="426" gid="10" x="2156" y="1771" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+    <object id="427" gid="10" x="1540" y="2387" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+    <object id="428" gid="10" x="2079" y="2695" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+    <object id="429" gid="10" x="1001" y="2233" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+    <object id="431" gid="10" x="2002" y="1463" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+    <object id="432" gid="10" x="1001" y="1617" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+    <object id="552" gid="2" x="4081" y="3311" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="553" gid="2" x="4466" y="3619" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="554" gid="2" x="4928" y="3003" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="555" gid="2" x="5775" y="3696" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="556" gid="2" x="6776" y="3234" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="557" gid="2" x="6468" y="2849" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="558" gid="2" x="6237" y="3388" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="559" gid="2" x="5005" y="3542" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="560" gid="2" x="5852" y="3003" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="561" gid="2" x="5467" y="3388" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="562" gid="2" x="4004" y="2772" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="563" gid="2" x="4389" y="2079" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="564" gid="2" x="3850" y="1925" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="565" gid="2" x="4543" y="2618" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="566" gid="2" x="5005" y="2464" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="567" gid="2" x="4697" y="1925" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="568" gid="2" x="5082" y="2002" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="569" gid="2" x="6237" y="2002" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="570" gid="2" x="6160" y="2541" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="571" gid="2" x="5390" y="2695" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="572" gid="2" x="6622" y="2310" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="573" gid="2" x="6699" y="1463" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="574" gid="2" x="6160" y="1694" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="575" gid="2" x="5698" y="1386" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="576" gid="2" x="5698" y="1848" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="577" gid="2" x="6314" y="1001" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="578" gid="2" x="6083" y="462" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="579" gid="2" x="6853" y="770" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="580" gid="2" x="6622" y="231" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="581" gid="2" x="6545" y="616" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="582" gid="2" x="3850" y="231" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="584" gid="2" x="3773" y="924" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="586" gid="2" x="3696" y="1386" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="587" gid="2" x="4697" y="693" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="588" gid="2" x="4543" y="1155" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="589" gid="2" x="4158" y="1155" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="590" gid="2" x="4158" y="1463" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="591" gid="2" x="5082" y="1386" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="592" gid="2" x="5698" y="231" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="593" gid="2" x="4389" y="385" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="594" gid="2" x="5698" y="770" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+   </objectgroup>
+   <objectgroup id="10" name="ResourcePoints">
+    <object id="356" gid="5" x="2464" y="3542" width="77" height="77">
+     <properties>
+      <property name="type" value="Mana Source"/>
+     </properties>
+    </object>
+    <object id="357" gid="5" x="3003" y="154" width="77" height="77">
+     <properties>
+      <property name="type" value="Mana Source"/>
+     </properties>
+    </object>
+    <object id="358" gid="6" x="1232" y="693" width="77" height="77">
+     <properties>
+      <property name="type" value="Gold Vein"/>
+     </properties>
+    </object>
+    <object id="361" gid="6" x="693" y="3311" width="77" height="77">
+     <properties>
+      <property name="type" value="Gold Vein"/>
+     </properties>
+    </object>
+    <object id="362" gid="6" x="539" y="2233" width="77" height="77">
+     <properties>
+      <property name="type" value="Gold Vein"/>
+     </properties>
+    </object>
+    <object id="363" gid="6" x="2926" y="1925" width="77" height="77">
+     <properties>
+      <property name="type" value="Gold Vein"/>
+     </properties>
+    </object>
+    <object id="364" gid="11" x="1309" y="3542" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+    <object id="365" gid="11" x="616" y="3080" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+    <object id="366" gid="11" x="2541" y="3157" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+    <object id="371" gid="11" x="2387" y="2541" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+    <object id="372" gid="11" x="693" y="1386" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+    <object id="373" gid="11" x="1155" y="2926" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+    <object id="374" gid="11" x="1848" y="3080" width="77" height="77">
+     <properties>
+      <property name="type" value="Iron Source"/>
+     </properties>
+    </object>
+   </objectgroup>
+   <objectgroup id="7" name="Trees">
+    <object id="60" gid="2" x="847" y="1232" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="61" gid="2" x="2002" y="1001" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="62" gid="2" x="2310" y="2156" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="63" gid="2" x="770" y="3080" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="64" gid="2" x="847" y="2156" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="65" gid="2" x="2156" y="3157" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="66" gid="2" x="2849" y="1617" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="67" gid="2" x="2464" y="539" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="68" gid="2" x="1078" y="462" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="69" gid="2" x="1540" y="1386" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="70" gid="2" x="1694" y="2541" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="71" gid="2" x="693" y="2772" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="72" gid="2" x="1232" y="3696" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="73" gid="2" x="2849" y="3465" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="74" gid="2" x="2772" y="2541" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="75" gid="2" x="2387" y="3003" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="76" gid="2" x="77" y="3388" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="77" gid="2" x="231" y="1078" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="78" gid="2" x="231" y="231" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="79" gid="2" x="3080" y="770" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="80" gid="2" x="2541" y="1386" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="387" gid="2" x="2156" y="2541" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="388" gid="2" x="1232" y="2156" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="389" gid="2" x="231" y="2079" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="390" gid="2" x="231" y="1386" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="391" gid="2" x="693" y="847" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="392" gid="2" x="1694" y="462" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="393" gid="2" x="1386" y="924" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="394" gid="2" x="2387" y="1078" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="395" gid="2" x="2849" y="2464" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="396" gid="2" x="2926" y="3157" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="397" gid="2" x="1771" y="3465" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="398" gid="2" x="1694" y="3696" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="399" gid="2" x="924" y="3388" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="400" gid="2" x="462" y="3311" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="401" gid="2" x="154" y="2541" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="402" gid="2" x="616" y="1617" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="403" gid="2" x="2079" y="1617" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="404" gid="2" x="1078" y="1848" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="405" gid="2" x="308" y="616" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="406" gid="2" x="1617" y="1155" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="407" gid="2" x="1771" y="1694" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="408" gid="2" x="2849" y="2079" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="409" gid="2" x="2387" y="1540" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="410" gid="2" x="2772" y="1232" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="411" gid="2" x="2772" y="2926" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="412" gid="2" x="2079" y="3619" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="413" gid="2" x="3157" y="3619" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="414" gid="2" x="3080" y="2849" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="415" gid="2" x="1848" y="2926" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="416" gid="2" x="2618" y="2695" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="417" gid="2" x="1848" y="2541" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="418" gid="2" x="1232" y="2541" width="77" height="77">
+     <properties>
+      <property name="type" value="Tree"/>
+     </properties>
+    </object>
+    <object id="375" gid="12" x="308" y="1848" width="77" height="77">
+     <properties>
+      <property name="type" value="Rock"/>
+     </properties>
+    </object>
+    <object id="376" gid="12" x="308" y="2849" width="77" height="77">
+     <properties>
+      <property name="type" value="Rock"/>
+     </properties>
+    </object>
+    <object id="377" gid="12" x="3080" y="2618" width="77" height="77">
+     <properties>
+      <property name="type" value="Rock"/>
+     </properties>
+    </object>
+    <object id="378" gid="12" x="2464" y="1925" width="77" height="77">
+     <properties>
+      <property name="type" value="Rock"/>
+     </properties>
+    </object>
+    <object id="379" gid="12" x="1617" y="2695" width="77" height="77">
+     <properties>
+      <property name="type" value="Rock"/>
+     </properties>
+    </object>
+    <object id="380" gid="12" x="1078" y="1155" width="77" height="77">
+     <properties>
+      <property name="type" value="Rock"/>
+     </properties>
+    </object>
+    <object id="381" gid="12" x="1925" y="693" width="77" height="77">
+     <properties>
+      <property name="type" value="Rock"/>
+     </properties>
+    </object>
+    <object id="382" gid="12" x="693" y="462" width="77" height="77">
+     <properties>
+      <property name="type" value="Rock"/>
+     </properties>
+    </object>
+    <object id="383" gid="12" x="1925" y="3465" width="77" height="77">
+     <properties>
+      <property name="type" value="Rock"/>
+     </properties>
+    </object>
+    <object id="384" gid="12" x="1232" y="3388" width="77" height="77">
+     <properties>
+      <property name="type" value="Rock"/>
+     </properties>
+    </object>
+    <object id="386" gid="12" x="616" y="3619" width="77" height="77">
+     <properties>
+      <property name="type" value="Rock"/>
+     </properties>
+    </object>
+   </objectgroup>
+   <objectgroup id="11" name="Units">
+    <object id="434" gid="4" x="1925" y="2156" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="true"/>
+      <property name="type" value="Builder"/>
+     </properties>
+    </object>
+    <object id="631" gid="4" x="1925" y="1694" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="true"/>
+      <property name="type" value="Human1Hero"/>
+     </properties>
+    </object>
+    <object id="632" gid="4" x="4851" y="2079" width="77" height="77">
+     <properties>
+      <property name="isPlayer" value="false"/>
+      <property name="type" value="Builder"/>
+     </properties>
+    </object>
+   </objectgroup>
+  </group>
+ </group>
+</map>
