@@ -8,6 +8,6 @@ iris = load_iris()
 model = RandomForestClassifier()
 model.fit(iris.data, iris.target)
 
-joblib.dump(model, "model.pki")
+joblib.dump(model, "model.pkl")
 
 mlflow.sklearn.log_model(model, "model1")
