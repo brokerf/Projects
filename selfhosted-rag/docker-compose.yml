@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  # Ollama service - simple version
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama-server
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    restart: unless-stopped
+
+  # Your chatbot application
+  chatbot:
+    build: .
+    container_name: chatbot-app
+    depends_on:
+      - ollama
+    environment:
+      - OLLAMA_HOST=http://ollama:11434
+    stdin_open: true
+    tty: true
+    restart: unless-stopped
+
+volumes:
+  ollama_data:
